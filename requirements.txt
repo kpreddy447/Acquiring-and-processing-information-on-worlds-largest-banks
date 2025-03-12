@@ -1,0 +1,7 @@
+requests
+sqlite3
+pandas
+logging
+numpy
+bs4
+datetime
